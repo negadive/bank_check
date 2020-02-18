@@ -96,7 +96,7 @@ function asd(id)
 };
 </script>
 
-<form action='cekbank101.php' method='POST'>
+<form action='' method='POST'>
 <center>Pengecekan Bank dari ID User : <br><input type=text name=nick>
 <input type='submit' value='Go!' class='buttonbig' name='hehe'></center>
 </form>
