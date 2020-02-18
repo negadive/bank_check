@@ -16,7 +16,7 @@ th {text-align: left;}
 </head>
 <body >
 <div  style="height:278.4px; width:242.4;">
-<img src="../info.png" height="278.4" width="242.4" style="border-radius: 5px; z-index:-1;"/>
+<img src="info.png" height="278.4" width="242.4" style="border-radius: 5px; z-index:-1;"/>
 <?php
 include 'func.php';
 /* function get_value_of($name)
